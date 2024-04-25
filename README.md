@@ -24,8 +24,10 @@ A tech enthusiast with a special love for chatbot development and artificial int
     🤖 Google Cloud Platform (GCP)
     🤖 Git, GitHub
 
-
-<h3> ✉️ &nbsp;Contact me</h3>
+<section>
+  <h3>📫 &nbsp; Let's Connect! </h3>
+    <p>I'm always excited to discuss interesting projects, share ideas, and learn new things! Whether you're thinking of building something amazing or just want to chat about tech, feel free to reach out. I'm just a click away! May the code be with you! </p>
+</section>
 
 <!-- LinkedIn -->
 
