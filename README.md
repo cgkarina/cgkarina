@@ -1,6 +1,6 @@
-# Hello World! 🚀
+# Hello World! I'm Karina. 🚀
 
-Hello, world! I'm Karina, a tech enthusiast with a special love for chatbot development and artificial intelligence. 
+A tech enthusiast with a special love for chatbot development and artificial intelligence. 
 
 <h3> 💻 &nbsp;About Me </h3>
 
